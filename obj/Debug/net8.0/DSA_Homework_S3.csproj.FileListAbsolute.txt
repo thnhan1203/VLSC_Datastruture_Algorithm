@@ -1,0 +1,15 @@
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.AssemblyInfoInputs.cache
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.AssemblyInfo.cs
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.csproj.CoreCompileInputs.cache
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.sourcelink.json
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.exe
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.deps.json
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.runtimeconfig.json
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.dll
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\bin\Debug\net8.0\DSA_Homework_S3.pdb
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.dll
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\refint\DSA_Homework_S3.dll
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.pdb
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\DSA_Homework_S3.genruntimeconfig.cache
+D:\VLSC_Datastruture_Algorithm\DSA_Homework_S3\obj\Debug\net8.0\ref\DSA_Homework_S3.dll
