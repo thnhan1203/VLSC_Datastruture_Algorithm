@@ -1,5 +1,5 @@
 ﻿using System;
-
+//author: Lê Thành Nhân - 2500115586
 class Program
 {
     // hàm đệ quy tính tổng S(n)
