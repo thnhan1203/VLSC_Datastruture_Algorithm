@@ -102,4 +102,3 @@ class Program
         Console.WriteLine($"Insertion Sort ton (swapCount) lan hoan doi");
     }
 }
-
